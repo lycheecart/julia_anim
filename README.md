@@ -47,5 +47,5 @@ These use a spacesize of 512 which takes all day to generate, since it's squarin
 ![](samples/d/d.gif)  
 ./julia_anim.py -sr=0.0 -er=0.0 -si=-0.6123 -ei=0.6123 -spacesize 512 -fg \#68b654 -bg \#040804  
 
-##Misc
+##Misc  
 If you have any issues, suggestions, or questions, e-mail slorm@tutanota.de.
